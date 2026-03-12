@@ -33,14 +33,14 @@ A premium, interactive graph visualization tool built to map out team members an
 The project expects a modern Node.js environment. We heavily recommend using [Bun](https://bun.sh/) for ultra-fast dependency resolution and execution.
 
 ### 1. Clone the Repository
-\`\`\`bash
+```bash
 git clone <your-repository-url>
 cd teams-graph
-\`\`\`
+```
 
 ### 2. Install Dependencies
 Make sure you are in the project root folder.
-\`\`\`bash
+```bash
 # If using bun (recommended)
 bun install
 
@@ -49,31 +49,31 @@ npm install
 
 # Alternatively, using yarn
 yarn install
-\`\`\`
+```
 
 ## 🏃‍♂️ Running the Application
 
 ### Development Server
 After installing dependencies, spin up the local development server:
-\`\`\`bash
+```bash
 bun run dev
 # or: npm run dev
-\`\`\`
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ### Building for Production
 To create an optimized production build:
-\`\`\`bash
+```bash
 bun run build
 # or: npm run build
-\`\`\`
+```
 
 To start the production server:
-\`\`\`bash
+```bash
 bun run start
 # or: npm run start
-\`\`\`
+```
 
 ## 💡 How to Use
 
