@@ -1,0 +1,11 @@
+id,name,category
+s1,React,Frontend
+s2,TypeScript,Frontend
+s3,Node.js,Backend
+s4,PostgreSQL,Backend
+s5,Docker,DevOps
+s6,Figma,Design
+s7,CSS,Frontend
+s8,GraphQL,Backend
+s9,CI/CD,DevOps
+s10,Next.js,Frontend
